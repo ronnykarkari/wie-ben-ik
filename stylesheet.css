@@ -1,0 +1,44 @@
+body	{
+	background-image: url(vlag.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: 0.8;
+	color: white;
+}
+p	{
+	font-size: 20px;
+}
+h1	{
+	text-align: right;
+}
+.tekst1	{
+	max-width: 850px;
+
+}
+.tekst2	{
+	max-width: 850px;
+}
+h3 { 
+	text-align: center;
+ }
+ h3{
+ 	text-align: center;
+ }
+ .tekst3{ max-width: 850px;
+
+ }
+
+ h3 {
+ 	text-align: center;
+
+ }
+ .tekst4{
+ 	max-width: 850px;
+ }
+ h3
+ { text-align: center; 
+                 }
+.tekst5{max-width: 850px}
+
+img { float: right; float: top
+}
